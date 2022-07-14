@@ -1,0 +1,15 @@
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\bin\Debug\net6.0\ProjectManagementSystem.Data.deps.json
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\bin\Debug\net6.0\ProjectManagementSystem.Data.dll
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\bin\Debug\net6.0\ProjectManagementSystem.Data.pdb
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\bin\Debug\net6.0\ProjectManagementSystem.Models.dll
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\bin\Debug\net6.0\ProjectManagementSystem.Models.pdb
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\obj\Debug\net6.0\ProjectManagementSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\obj\Debug\net6.0\ProjectManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\obj\Debug\net6.0\ProjectManagementSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\obj\Debug\net6.0\ProjectManagementSystem.Data.AssemblyInfo.cs
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\obj\Debug\net6.0\ProjectManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\obj\Debug\net6.0\ProjectManagementSystem.Data.csproj.CopyComplete
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\obj\Debug\net6.0\ProjectManagementSystem.Data.dll
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\obj\Debug\net6.0\refint\ProjectManagementSystem.Data.dll
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\obj\Debug\net6.0\ProjectManagementSystem.Data.pdb
+C:\Users\Viktor\PersonalProjects\ProjectManagementSystem\LearningNewThings\MyProjectManagementSystem\ProjectManagementSystem.Data\obj\Debug\net6.0\ref\ProjectManagementSystem.Data.dll

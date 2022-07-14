@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProjectManagementSystem.Data/1.0.0": {
+        "dependencies": {
+          "ProjectManagementSystem.Models": "1.0.0"
+        },
+        "runtime": {
+          "ProjectManagementSystem.Data.dll": {}
+        }
+      },
+      "ProjectManagementSystem.Models/1.0.0": {
+        "runtime": {
+          "ProjectManagementSystem.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectManagementSystem.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectManagementSystem.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
